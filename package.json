@@ -1,0 +1,22 @@
+{
+  "name": "numberguess",
+  "version": "1.0.0",
+  "description": "A number guessing game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikrajkanna/numberguess.git"
+  },
+  "author": "Kartik Saravana Arvind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartikrajkanna/numberguess/issues"
+  },
+  "homepage": "https://github.com/kartikrajkanna/numberguess#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
